@@ -104,6 +104,7 @@ const Resume = (props) => {
         heading={"National Youth Service Corps"}
         subHeading={"NewHorizons ICT Learning centers, Abeokuta. Ogun State"}
         fromDate={"2021"}
+        toDate={"2021"}
       />
       <ResumeHeading
         heading={"High School "}
