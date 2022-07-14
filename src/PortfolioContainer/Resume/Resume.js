@@ -96,21 +96,21 @@ const Resume = (props) => {
       <ResumeHeading
         heading={"The Federal Polytechnic, Ado Ekiti"}
         subHeading={"HIGHER NATIONAL DIPLOMA, SURVEYING & GEOINFORMATICS"}
-        fromDate={"2014"}
-        toDate={"2021"}
+//         fromDate={"2014"}
+//         toDate={"2021"}
       />
 
       <ResumeHeading
         heading={"National Youth Service Corps"}
         subHeading={"NewHorizons ICT Learning centers, Abeokuta. Ogun State"}
-        fromDate={"2021"}
-        toDate={"2021"}
+//         fromDate={"2021"}
+//         toDate={"2021"}
       />
       <ResumeHeading
         heading={"High School "}
         subHeading={"St Dominics High School, Akure"}
-        fromDate={"2012"}
-        toDate={"2019"}
+//         fromDate={"2012"}
+//         toDate={"2019"}
       />
     </div>,
 
