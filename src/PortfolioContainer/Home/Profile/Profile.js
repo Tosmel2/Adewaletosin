@@ -9,8 +9,8 @@ export default function Profile() {
         <div className="profile-details">
           <div className="colz">
             <div className="cols-icon">
-              <a href="#">
-                <i className="fa fa-facebook-square" />
+              <a href="https://github.com/Tosmel2">
+                <i className="fa-brands fa-github"></i>
               </a>
               <a href="https://linkedin.com/in/tosin-adewale-4b61041b0">
                 <i className="fa fa-linkedin" />
