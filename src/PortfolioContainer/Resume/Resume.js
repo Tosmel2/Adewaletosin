@@ -121,7 +121,7 @@ const Resume = (props) => {
           heading={"NewHorizons ICT Learning Centers"}
           subHeading={"WEB DEVELOPER, GRAPHIC DESIGN INSTRUCTOR"}
           fromDate={"2021"}
-          toDate={"Present"}
+          toDate={"2022"}
         />
         <div className="experience-description">
           <span className="resume-description-text">
