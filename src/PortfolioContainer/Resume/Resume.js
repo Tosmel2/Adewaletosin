@@ -94,23 +94,23 @@ const Resume = (props) => {
   const resumeDetails = [
     <div className="resume-screen-container" key="education">
       <ResumeHeading
-        heading={"The Federal Polytechnic, Ado Ekiti"}
-        subHeading={"HIGHER NATIONAL DIPLOMA, SURVEYING & GEOINFORMATICS"}
-//         fromDate={"2014"}
-//         toDate={"2021"}
+        heading={"ALX-T UDACITY"}
+        subHeading={"Backend Full Stack Nanodegree"}
+        fromDate={"2022"}
+        toDate={"2022"}
       />
 
       <ResumeHeading
-        heading={"National Youth Service Corps"}
-        subHeading={"NewHorizons ICT Learning centers, Abeokuta. Ogun State"}
-//         fromDate={"2021"}
-//         toDate={"2021"}
+        heading={"ALX Software Engineering (Holberton)"}
+        subHeading={"Software Engineer Internship"}
+        fromDate={"2021"}
+        toDate={"2022"}
       />
       <ResumeHeading
-        heading={"High School "}
-        subHeading={"St Dominics High School, Akure"}
-//         fromDate={"2012"}
-//         toDate={"2019"}
+        heading={"The Federal Polytechnic, Ado Ekiti"}
+        subHeading={"HIGHER NATIONAL DIPLOMA, SURVEYING & GEOINFORMATICS"}
+        fromDate={"2014"}
+        toDate={"2021"}
       />
     </div>,
 
